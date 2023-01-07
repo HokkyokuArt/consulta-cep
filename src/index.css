@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(94, 197, 223);
+  list-style: none;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: #131b1d;
+}
